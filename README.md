@@ -1,1 +1,1 @@
-Please read the report its way more detailed than the comments.i did not do hyper parameter optimization seperately for tier 1 challenge.The code is  optimized for tier2 to run tier 1 just change the function and dataset path
+Please read the report its way more detailed than the comments, the report has 4 aproaches  .I did not do hyper parameter optimization seperately for tier 1 challenge.The hyper parameters are optimized for tier2 you can still run tier 1 by changing the function and dataset path.
